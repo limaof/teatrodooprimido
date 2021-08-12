@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Teatro do Oprimido  
+  
+## Augusto Boal  
+Autor brasileiro, carioca suburbano, foi um dramaturgo atuante no teatro arena idealizador do teatro do oprimido. 
 
-You can use the [editor on GitHub](https://github.com/limaof/teatrodooprimido/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Augusto utilizou e encenou o teatro realista de Stanislavski para um dia criar um teatro brasileiro, com essa abordagem realista ele fazia uma oposição ao teatro nacional de comédia, que era um teatro aburguesado.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[!Teatro do oprimido](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.miguelarcanjoprado.com%2Fwp-content%2Fuploads%2F2015%2F09%2Faugusto-boal-teatro-do-oprimido-paris-1975.jpg&f=1&nofb=1)
+## O teatro do oprimido
+  
+Se aproxima da escola de Frankfurt (Adorno, Marcuse, Benjamin, Brecht), que pensava as utopias, construção de um novos mundos possíveis. 
 
-### Markdown
+É uma abordagem teatral nascida no Brasil e desenvolvida na América Latina, que pensa o teatro como uma resposta a uma situação social e política concreta. O teatro do Oprimido seria, então, uma criação do oprimido.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O teatro do oprimido também se relaciona com o trabalho de Paulo Freire e a pedagogia do oprimido. Em muitos aspectos o Augusto está aplicando o método de alfabetização do Paulo Freire dentro da abordagem teatral.
+  
+**Unirio explica: Teatro do oprimido**
 
-```markdown
-Syntax highlighted code block
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UT4m6Mnvpfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=UT4m6Mnvpfo
 
-# Header 1
-## Header 2
-### Header 3
+###Alguns conceitos do teatro do oprimido
 
-- Bulleted
-- List
+**Jogos disparadores**
 
-1. Numbered
-2. List
+jogos para atores e não atores
 
-**Bold** and _Italic_ and `Code` text
+**Coringa**
 
-[Link](url) and ![Image](src)
-```
+Os "discipulos" do teatro do oprimido.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Expecta-ator**
 
-### Jekyll Themes
+**Teatro do invisível**
+Peças teatrais onde o expectador não sabe que se trata de uma peça, acabando por participar dela de maneira espontânea.
+ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/limaof/teatrodooprimido/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**O teatre des oprimides**
 
-### Support or Contact
+### Proposta de exercício
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Para o momento pandêmico, a proposta seria a de criar coletivamente uma peça que abordasse os dilemas da pandemia utilizando como ferramente o Tiktok ou reels do Instagram, utilizando a ferramenta de remix disponibilizado pelo aplicativo. A tarefa seria feita em grupo em dois núcleos: Os que pensam os jogos disparadores da peça, que podem escrever sobre ou não; e o grupo dos atores, que por causa do momento pandêmico iriam atuar e gravar suas atuações.  
