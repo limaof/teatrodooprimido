@@ -1,4 +1,4 @@
-# O teatro do oprimido
+
 
 ## Augusto Boal  
 ![Augusto Boal](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.miguelarcanjoprado.com%2Fwp-content%2Fuploads%2F2015%2F09%2Faugusto-boal-teatro-do-oprimido-paris-1975.jpg&f=1&nofb=1)
