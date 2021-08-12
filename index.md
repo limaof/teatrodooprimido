@@ -5,7 +5,6 @@ Autor brasileiro, carioca suburbano, foi um dramaturgo atuante no teatro arena i
 
 Augusto utilizou e encenou o teatro realista de Stanislavski para um dia criar um teatro brasileiro, com essa abordagem realista ele fazia uma oposição ao teatro nacional de comédia, que era um teatro aburguesado.
 
-[!Teatro do oprimido](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.miguelarcanjoprado.com%2Fwp-content%2Fuploads%2F2015%2F09%2Faugusto-boal-teatro-do-oprimido-paris-1975.jpg&f=1&nofb=1)
 ## O teatro do oprimido
   
 Se aproxima da escola de Frankfurt (Adorno, Marcuse, Benjamin, Brecht), que pensava as utopias, construção de um novos mundos possíveis. 
